@@ -1,0 +1,15 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# Compiled object files
+*.o
+
+# Compiled firmware files
+*.elf
+*.hex
+*.bin
+
+# Map and listing files
+*.map
+*.list
